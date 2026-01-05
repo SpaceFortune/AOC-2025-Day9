@@ -23,6 +23,3 @@ Verwendete Techniken
 Eingabe
 • 	Datei  mit Zeilen im Format:
 
-Ausgabe
-• 	
-• 	
